@@ -1,7 +1,6 @@
-# BoringB
-All codes related to my YouTube channel are provided here. 
+# B² Tutorials
+All codes related to my website and YouTube channel tutorials
 
-01-Make MATLAB codes run faster
+01 - Swift: iOS 10.3 Request for Reivew 
 --------------
-There are few tricks to avoid long run times for your codes. Two of which are pre-allocating your variables and avoiding loops. Code demonstrates how to avoid using loops in few difference occasions. 
-
+Code for tutorial posted on my website. 
